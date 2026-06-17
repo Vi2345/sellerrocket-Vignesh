@@ -13,11 +13,6 @@
 - CSS3
 - JavaScript
 
-### Backend
-- Node.js
-- Express.js
-- MySQL
-
 ### CMS Platforms
 - Shopify
 - WordPress
@@ -67,62 +62,15 @@ Completed:
 
 ---
 
-## Backend API
-
-Implemented:
-- POST /api/leads
-- GET /api/leads
-- GET /api/leads?platform=Shopify
-- PATCH /api/leads/:id/status
-- DELETE /api/leads/:id
-
-Database Fields:
-- id
-- name
-- phone
-- email
-- platform
-- message
-- status
-- created_at
-
----
-
-## Setup Instructions
-
-1. Clone the repository
-2. Open project in VS Code
-3. Run:
-
-```bash
-npm install
-```
-
-4. Configure .env file
-5. Create MySQL database
-6. Run:
-
-```bash
-node server.js
-```
-
-7. Open frontend using Live Server
-
----
-
 ## Screenshots
 
 Shopify screenshots are available in:
 
-```text
 /shopify-screenshots
-```
 
 WordPress screenshots are available in:
 
-```text
 /wordpress-screenshots
-```
 
 ---
 
@@ -134,6 +82,8 @@ https://homenest-india-etf3ej82.myshopify.com/
 ### WordPress Site
 
 https://unquestionable-seahorse-763ed9.instawp.site/
+
+
 ---
 
 ## Author
